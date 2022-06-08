@@ -16,4 +16,6 @@ export default async function decorate(block) {
   footer.innerHTML = html;
   await decorateIcons(footer);
   block.append(footer);
+  
+  alert("page published");
 }
