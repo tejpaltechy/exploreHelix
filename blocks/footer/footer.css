@@ -7,6 +7,7 @@ footer {
 footer .footer {
   max-width: 768px;
   margin: auto;
+  color: red;
 }
 
 footer .footer p {
