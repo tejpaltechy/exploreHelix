@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/sites/HelixProjects/Shared%20Documents/Forms/AllItems.aspx?ga=1&OR=Teams%2DHL&CT=1656537095948&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyOC8yMjA2MDYxNDgwNSIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D&id=%2Fsites%2FHelixProjects%2FShared%20Documents%2Fsites%2Fabout%2Dkaiserpermanente&viewid=124ad5f1%2D60ba%2D476c%2Dade8%2D7c1df274ee95
+  /:
+    url: https://sp-cloud.kp.org/sites/KPD-Helix/Shared%20Documents/aboutkp
+    type: onedrive
+    tenantId: 3f8a7bc4-e337-47a5-a0fc-0d512c0e05f1
