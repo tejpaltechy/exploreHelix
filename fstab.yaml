@@ -1,3 +1,2 @@
 mountpoints:
-  /:
-    url: https://sp-cloud.kp.org/sites/KPD-Helix/Shared%20Documents/about-kaiserpermanente
+  /: https://sp-cloud.kp.org/sites/KPD-Helix/Shared%20Documents/about-kaiserpermanente
